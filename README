@@ -1,0 +1,19 @@
+Name of our project: Online Student Job Board
+
+Project management tool: Microsoft Project
+
+Description: We created an online job board for Computer Science students. This job board allows 
+employers to directly advertise open positions to Computer Science students at UoA.
+
+Technologies: ASP.NET Entity Framework Core, SQL Server Express, AWS Elastic Beanstalk, jQuery 3.5.1,
+Bootstrap 4.6.0, Summernote.js, Bootstrap-Table.js, Sweet-Alert.js, Echarts.js.
+
+Instructions: dwad
+
+URL of website: http://studentjobboard-env.eba-yxrh674p.ap-southeast-2.elasticbeanstalk.com/
+
+Future plan: For future development it would be a good idea to look into a system where users can like/follow
+jobs that they are interested in. Also, you could expand the functionality of the employer view of the site.
+
+Acknowledgements: We should mention our clients, Giovanni and Shana for giving us a strong vision for where
+they wanted to the project to go in terms of development.
