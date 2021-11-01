@@ -18,8 +18,9 @@
 2. install [SQL Server 2017 Express](https://www.microsoft.com/en-us/download/details.aspx?id=55994)
 3. install [SSMS 17.9.1](https://docs.microsoft.com/en-us/sql/ssms/release-notes-ssms?view=sql-server-ver15#1791)
 4. install [ASP.NET Core runtime 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
-5. type **Add-Migration Init** and **update-database** in Package Manager Consle
-6. run program by clicking **IIS Express** button
+5. run Visual Studio 2019
+6. type **Add-Migration Init** and **update-database** in Package Manager Consle
+7. run program by clicking **IIS Express** button
 ## Usage Examples
 - employer
   - fill in an application form
